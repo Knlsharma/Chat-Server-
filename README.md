@@ -14,6 +14,10 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 ```
 
+The content of this repository is released under the GPL License as provided in the LICENSE file that accompanied this code.
+
+By submitting a "pull request" or otherwise contributing to this repository, you agree to license your contribution under the license mentioned above.
+
 # Chat-Server Using Java Socket Programming
 
 **client** will write first to the ***server*** then server will receive and print the text. Then ***server*** will write to the **client** and **client** will *receive* and print the text. The step goes on.
