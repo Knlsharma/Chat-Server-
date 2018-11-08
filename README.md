@@ -22,4 +22,12 @@ By submitting a "pull request" or otherwise contributing to this repository, you
 
 **client** will write first to the ***server*** then server will receive and print the text. Then ***server*** will write to the **client** and **client** will *receive* and print the text. The step goes on.
 
+## Chat Screenshots
+
+![Image of Chat 1](https://github.com/Knlsharma/Chat-Server-/blob/master/Screenshot%20(67).png)
+
+![Image of Chat 2](https://github.com/Knlsharma/Chat-Server-/blob/master/Screenshot%20(68).png)
+
+
+
 .
