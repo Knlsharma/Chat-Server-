@@ -4,7 +4,7 @@
 
 ### OpenSource Badges
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 
 # GPL Licence
 
@@ -27,6 +27,19 @@ By submitting a "pull request" or otherwise contributing to this repository, you
 ![Image of Chat 1](https://github.com/Knlsharma/Chat-Server-/blob/master/Screenshot%20(67).png)
 
 ![Image of Chat 2](https://github.com/Knlsharma/Chat-Server-/blob/master/Screenshot%20(68).png)
+
+> SETTING UP
+ 1. Need of java to be installed in  required system.
+ 2. Download zip or via svn (Logic class).
+ 
+> RUN
+ 1. Either you can use IDE or CMD.
+ 2. clean and build.
+ 3. run
+    3.1 using ***server.java*** ,**client.java**
+    3.2 compile and execute.
+ 4. Start chatting. 
+
 
 
 
