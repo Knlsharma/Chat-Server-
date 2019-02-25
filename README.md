@@ -28,11 +28,11 @@ By submitting a "pull request" or otherwise contributing to this repository, you
 
 ![Image of Chat 2](https://github.com/Knlsharma/Chat-Server-/blob/master/Screenshot%20(68).png)
 
-> SETTING UP
+## SETTING UP
  1. Need of java to be installed in  required system.
  2. Download zip or via svn (Logic class).
  
-> RUN
+## RUN
  1. Either you can use IDE or CMD.
  2. clean and build.
  3. run
